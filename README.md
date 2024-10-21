@@ -51,15 +51,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AbiXnash/AbiXnash/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31pes7pfmo77xipgczyliermu5v4&unique={true|1|on|yes}?" alt="Widget with the current Spotify song"  />
-</div>
-
-###
