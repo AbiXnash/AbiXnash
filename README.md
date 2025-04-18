@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abinash S and I'm a Researcher, from India</h2>
+<h2 align="left">Hi 👋! This is Abinash and I use Vim btw</h2>
 
 ###
 
