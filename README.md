@@ -39,17 +39,6 @@ I'm **Abinash** — a software engineer who:
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" /> | 🔥🔥 |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" /> | 🔥 |
 
-**Databases I've befriended:**
-- PostgreSQL (my ride or die)
-- Redis (cache game strong)
-- SQLite (for when I'm feeling minimalist)
-
-**Tools that keep me sane:**
-- **tmux** — multiple universes in one terminal
-- **Neovim** — where real coding happens
-- **Docker** — because "works on my machine" is a lie
-- **Git** — my therapist (commit history = diary)
-
 </div>
 
 ---
@@ -74,26 +63,6 @@ I'm **Abinash** — a software engineer who:
 " If it compiles, it ships
 " YOLO driven development
 ```
-
-**What I believe in:**
-- Keyboard > Mouse (always)
-- Terminal > GUI (always)
-- Vim keybindings > Everything else
-- Coffee > Sleep
-- `git rebase -i` > Merge commits (fight me)
-- Go's simplicity > Java's verbosity (but I still work on Java 🤐)
-
----
-
-## 🌪️ Current Obsessions
-
-- 🎪 **Ricing tmux** with zero mouse interactions
-- 🚀 **Building stuff in Go** because fast = based
-- ☕ **Spring Boot** microservices (Java life chose me)
-- 🔧 **Dotfiles** optimization (my configs have configs)
-- 📡 **System design** (distributed > monolithic, change my mind)
-- 🎮 **Vim motions** in every editor (muscle memory is real)
-
 ---
 
 ## 🤝 Let's Connect (If You Speak My Language)
@@ -108,38 +77,6 @@ I'm **Abinash** — a software engineer who:
 
 ---
 
-## ⚠️ Fair Warning
-
-- 🚫 Don't ask me to use VSCode (my eye twitches)
-- 🚫 Don't commit without a meaningful message (I WILL judge)
-- 🚫 Don't recommend me a "lightweight" editor (Vim IS lightweight)
-- 🚫 Don't use spaces instead of tabs... actually use tabs, spaces are for HTML
-- ✅ DO challenge my takes on anything tech (I live for the discourse)
-
----
-
-## 🎨 Fun Facts
-
-> *"I configured tmux so aggressively that my shell spawning time is 47ms. Send help."*
-
-> *"My vimrc is 500 lines. The next person to review it will need therapy."*
-
-> *"I have 23 custom Neovim plugins. Yes, I need all of them. No, I won't explain."*
-
-> *"Switching to Mac broke my muscle memory. I'm still in denial."*
-
----
-
-## 🏆 Goals (Delusional Edition)
-
-- [ ] Contribute to a major Go project
-- [ ] Write a production Rust service
-- [ ] Master Java's type system
-- [ ] Create a tmux + Neovim setup so optimized it transcends space-time
-- [ ] Get paid to use Vim (already happened, actually)
-- [ ] Touch grass (unlikely)
-
----
 
 ## 🎬 Grand Finale
 
