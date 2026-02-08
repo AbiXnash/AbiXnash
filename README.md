@@ -43,17 +43,7 @@ I'm **Abinash** — a software engineer who:
 
 ---
 
-## 🎯 Random Stats (Flex Culture)
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AbiXnash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbiXnash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
 
 ## 📜 Philosophy
 
@@ -65,13 +55,13 @@ I'm **Abinash** — a software engineer who:
 ```
 ---
 
-## 🤝 Let's Connect (If You Speak My Language)
+## 🎯 Random Stats (Flex Culture)
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://www.instagram.com/_abixnash_/)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:abinash@theabx.in)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://in.linkedin.com/in/abinash-selvarasu)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbiXnash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbiXnash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
