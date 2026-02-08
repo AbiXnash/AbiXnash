@@ -1,29 +1,169 @@
-<h2 align="left">Hi 👋! This is Abinash and I use Vim btw</h2>
+# ⚡ `AbiXnash` | Neovim Extremist & Terminal Wizard 🧙‍♂️
 
-###
+```
+       _____ ______________  ___
+      /  _  \\______   \   \/  /
+     /  /_\  \|    |  _/\     / 
+    /    |    \    |   \/     \ 
+    \____|__  /______  /___/\  \
+            \/       \/      \_/
+                                             
+    Touch grass? Nah, I touch CTRL+C instead.
+```
+
+---
+
+## 🚀 About Me (The Unhinged Version)
+
+I'm **Abinash** — a software engineer who:
+- ✅ Uses **Neovim** (not `VS Code`, don't disrespect like that)
+- ✅ Lives in **tmux** splits like it's my apartment
+- ✅ Migrated from **Arch Linux** (yes, I used Arch, yes, I told you)
+- ✅ Now on **Mac** (but somehow Windows at work... send help)
+- ✅ **Java Developer** by day, **Go enthusiast** by night
+- ❌ Uses arrow keys (disgusting behavior)
+- ❌ Leaves Vim without saving (seeks therapy)
+- ❌ Touches the mouse (that's for web developers)
+
+---
+
+## 💻 My Arsenal (Tech Stack That Matters)
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbiXnash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbiXnash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+| **Language** | **Obsession Level** |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />| 🔥🔥🔥🔥🔥 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" />| 🔥🔥🔥🔥 (ig) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" /> | 🔥🔥🔥 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" /> | 🔥🔥 |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" /> | 🔥 |
+
+**Databases I've befriended:**
+- PostgreSQL (my ride or die)
+- Redis (cache game strong)
+- SQLite (for when I'm feeling minimalist)
+
+**Tools that keep me sane:**
+- **tmux** — multiple universes in one terminal
+- **Neovim** — where real coding happens
+- **Docker** — because "works on my machine" is a lie
+- **Git** — my therapist (commit history = diary)
+
 </div>
 
-###
+---
+
+## 🎯 Random Stats (Flex Culture)
 
 <div align="center">
-  <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbiXnash&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AbiXnash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-###
+---
+
+## 📜 Philosophy
+
+```vim
+" My .vimrc is my autobiography
+" Muscle memory > Documentation
+" If it compiles, it ships
+" YOLO driven development
+```
+
+**What I believe in:**
+- Keyboard > Mouse (always)
+- Terminal > GUI (always)
+- Vim keybindings > Everything else
+- Coffee > Sleep
+- `git rebase -i` > Merge commits (fight me)
+- Go's simplicity > Java's verbosity (but I still work on Java 🤐)
+
+---
+
+## 🌪️ Current Obsessions
+
+- 🎪 **Ricing tmux** with zero mouse interactions
+- 🚀 **Building stuff in Go** because fast = based
+- ☕ **Spring Boot** microservices (Java life chose me)
+- 🔧 **Dotfiles** optimization (my configs have configs)
+- 📡 **System design** (distributed > monolithic, change my mind)
+- 🎮 **Vim motions** in every editor (muscle memory is real)
+
+---
+
+## 🤝 Let's Connect (If You Speak My Language)
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://www.instagram.com/_abixnash_/)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:abinash@theabx.in)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://in.linkedin.com/in/abinash-selvarasu)
+
+</div>
+
+---
+
+## ⚠️ Fair Warning
+
+- 🚫 Don't ask me to use VSCode (my eye twitches)
+- 🚫 Don't commit without a meaningful message (I WILL judge)
+- 🚫 Don't recommend me a "lightweight" editor (Vim IS lightweight)
+- 🚫 Don't use spaces instead of tabs... actually use tabs, spaces are for HTML
+- ✅ DO challenge my takes on anything tech (I live for the discourse)
+
+---
+
+## 🎨 Fun Facts
+
+> *"I configured tmux so aggressively that my shell spawning time is 47ms. Send help."*
+
+> *"My vimrc is 500 lines. The next person to review it will need therapy."*
+
+> *"I have 23 custom Neovim plugins. Yes, I need all of them. No, I won't explain."*
+
+> *"Switching to Mac broke my muscle memory. I'm still in denial."*
+
+---
+
+## 🏆 Goals (Delusional Edition)
+
+- [ ] Contribute to a major Go project
+- [ ] Write a production Rust service
+- [ ] Master Java's type system
+- [ ] Create a tmux + Neovim setup so optimized it transcends space-time
+- [ ] Get paid to use Vim (already happened, actually)
+- [ ] Touch grass (unlikely)
+
+---
+
+## 🎬 Grand Finale
+
+```
+If you're reading this, you either:
+(a) Got lost on GitHub
+(b) Are considering hiring me (DO IT)
+(c) Also use Vim and want to be friends
+(d) Need to understand my derangement
+
+In any case, hit me up. I probably use tmux splits for conversations.
+```
+
+**_Last updated: While sipping coffee in a tmux session, editing this README in Vim_**
+
+---
+
+<div align="center">
+
+**Made with ❤️ and `git commit -m "yoo family!"`**
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AbiXnash.AbiXnash)
+
+</div>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/_abixnash_/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="mailto:abinashs2704@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://in.linkedin.com/in/abinash-selvarasu"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.hackerrank.com/profile/abxhere"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  /></a>
-</div>
-
-###
