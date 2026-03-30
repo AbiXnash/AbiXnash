@@ -54,8 +54,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbiXnash&show_icons=true&theme=github_dark&hide_border=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbiXnash&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=AbiXnash&theme=github-dark" height="180" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiXnash&layout=compact&theme=github_dark" height="180" alt="Top Languages" />
 </p>
 
 ---
