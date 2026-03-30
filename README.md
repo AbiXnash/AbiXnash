@@ -55,7 +55,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AbiXnash&theme=github-dark" height="180" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbiXnash&layout=compact&theme=github_dark" height="180" alt="Top Languages" />
+  <img src="https://gh-pinned-repos.耶hnologies.dev/api?username=AbiXnash&layout=compact" height="180" alt="Pinned Repos" />
 </p>
 
 ---
