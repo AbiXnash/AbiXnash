@@ -15,8 +15,8 @@ Java at Mindgate by day. Payments, banking, the unglamorous stuff that has to wo
 India · Open to chat · Spring Boot at work · Golang after hours
 
 </td>
-<td width="128" align="right" valign="top">
-<img src="assets/avatar.jpg" width="112" alt="Abinash" />
+<td width="140" align="right" valign="top">
+<img src="assets/meme.svg" width="128" alt="one-piece keyboard no. Sofle yes." />
 </td>
 </tr>
 </table>
