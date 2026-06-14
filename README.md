@@ -1,3 +1,5 @@
+<img src="assets/profile.jpg" width="140" alt="Abinash" />
+
 # Hey, I'm Abinash.
 
 **I build backend software.**
@@ -20,21 +22,6 @@ India · Open to chat · Spring Boot at work · Golang after hours
 
 Java developer at [Mindgate Solutions](https://www.mindgate.solutions/), building tax-payment products and internal banking tools.
 
-<sub>PROJECTS</sub>
+<br>
 
-### Selected work.
-
-**[Four Market](https://github.com/AbiXnash/four-market-web)**  
-Event management with a TypeScript frontend and Kotlin API.
-
-**[nvim](https://github.com/AbiXnash/nvim)**  
-Neovim 0.11+ setup in Lua — LSP, fuzzy finding, Git, completion.
-
-**[theabxfolio](https://github.com/AbiXnash/theabxfolio)**  
-This portfolio. Astro, Tailwind CSS, Bun.
-
-<sub>STACK</sub>
-
-### What's in the stack.
-
-Spring Boot · Golang · Java · TypeScript · Kotlin · PostgreSQL · Kafka
+![Contribution activity](https://raw.githubusercontent.com/AbiXnash/AbiXnash/output/snake.svg)
