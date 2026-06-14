@@ -1,5 +1,3 @@
-<img src="assets/profile.jpg" width="140" alt="Abinash" />
-
 # Hey, I'm Abinash.
 
 **I build backend software.**
