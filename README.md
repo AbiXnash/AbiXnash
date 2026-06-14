@@ -1,3 +1,7 @@
+<table>
+<tr>
+<td valign="top">
+
 # Hey, I'm Abinash.
 
 **I build backend software.**
@@ -9,6 +13,13 @@ Java at Mindgate by day. Payments, banking, the unglamorous stuff that has to wo
 <br>
 
 India · Open to chat · Spring Boot at work · Golang after hours
+
+</td>
+<td width="128" align="right" valign="top">
+<img src="assets/avatar.jpg" width="112" alt="Abinash" />
+</td>
+</tr>
+</table>
 
 <br>
 
