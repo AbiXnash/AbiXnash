@@ -1,7 +1,3 @@
-<table>
-<tr>
-<td valign="top">
-
 # Hey, I'm Abinash.
 
 **I build backend software.**
@@ -13,13 +9,6 @@ Java at Mindgate by day. Payments, banking, the unglamorous stuff that has to wo
 <br>
 
 India · Open to chat · Spring Boot at work · Golang after hours
-
-</td>
-<td width="140" align="right" valign="top">
-<img src="assets/meme.svg" width="128" alt="one-piece keyboard no. Sofle yes." />
-</td>
-</tr>
-</table>
 
 <br>
 
