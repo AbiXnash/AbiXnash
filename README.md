@@ -24,7 +24,7 @@ Java developer at [Mindgate Solutions](https://www.mindgate.solutions/), buildin
 
 ### Split keebs.
 
-I type on split keyboards. Sofle is the daily driver — because apparently a normal rectangle was too easy. Column stagger, thumb clusters, and a keymap I'll change again next week.
+I type on split keyboards. Sofle is the daily driver... because apparently a normal rectangle was too easy. Column stagger, thumb clusters, and a keymap I'll change again next week.
 
 <br>
 
