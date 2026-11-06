@@ -6,7 +6,7 @@ go after hours, because rest is for people with fewer side projects.
 
 types on a split keyboard. has rewritten the neovim config four times. will do it again.
 
-currently: shipping. allegedly.
+somewhere between the bugs and the late nights, i found joy in programming. still here for it.
 
 <img src="assets/skills.svg" width="560" alt="skills: java and spring boot, go, typescript, sql, docker." />
 
