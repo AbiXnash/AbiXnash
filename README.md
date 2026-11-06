@@ -29,7 +29,7 @@ I type on split keyboards. Sofle is the daily driver... because apparently a nor
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbiXnash&theme=github-compact&hide_border=true&area=true&height=130&hide_title=true&bg_color=000000&color=86868b&line=2997ff&point=2997ff&area_color=2997ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AbiXnash&theme=neutral&hide_border=true&area=true&height=130&hide_title=true&bg_color=ffffff&color=6e6e73&line=0071e3&point=0071e3&area_color=0071e3" />
-  <img alt="GitHub activity" src="https://github-readme-activity-graph.vercel.app/graph?username=AbiXnash&theme=neutral&hide_border=true&area=true&height=130&hide_title=true&bg_color=ffffff&color=6e6e73&line=0071e3&point=0071e3&area_color=0071e3" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2997ff/AbiXnash" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0071e3/AbiXnash" />
+  <img alt="GitHub contributions" src="https://ghchart.rshah.org/0071e3/AbiXnash" />
 </picture>
