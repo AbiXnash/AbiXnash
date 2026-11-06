@@ -1,6 +1,7 @@
 """Generate assets/stats.svg from public GitHub data. Needs GITHUB_TOKEN."""
 import json, os, urllib.request
 from xml.sax.saxutils import escape
+from card import W, card
 
 LOGIN = "AbiXnash"
 SKIP = {"Jupyter Notebook", "HTML", "CSS", "Makefile", "Dockerfile", "Shell"}
@@ -28,43 +29,38 @@ for r in repos["nodes"]:
 top = sorted(langs.items(), key=lambda kv: -kv[1])[:5]
 total = sum(s for _, s in top) or 1
 
-W = 560
 light = ["#0071e3", "#4b9bf0", "#86bdf6", "#b7d7fa", "#dcebfc"]
-dark = ["#2997ff", "#1a6fd1", "#16529a", "#133c6e", "#102a4b"]
+dark = ["#2f81f7", "#1f6feb", "#1958b7", "#16447f", "#122d52"]
+css = "".join(f".l{i}{{fill:{c}}}" for i, c in enumerate(light))
+css += "@media (prefers-color-scheme: dark){" + "".join(f".l{i}{{fill:{c}}}" for i, c in enumerate(dark)) + "}"
 
 nums = [(f"{contribs:,}", "contributions, past year"), (str(repos["totalCount"]), "public repos"), (str(stars), "stars")]
+col = (W - 48) / 3
 parts = []
 for i, (v, label) in enumerate(nums):
-    x = i * 190
-    parts.append(f'<text x="{x}" y="62" font-size="24" font-weight="700">{v}</text>')
-    parts.append(f'<text x="{x}" y="82" font-size="12" class="muted">{label}</text>')
+    x = 24 + i * col + (20 if i else 0)
+    if i:
+        parts.append(f'  <line class="rule" x1="{24 + i * col}" y1="58" x2="{24 + i * col}" y2="104"/>')
+    parts.append(f'  <text x="{x}" y="86" font-size="28" font-weight="700">{v}</text>')
+    parts.append(f'  <text x="{x}" y="104" font-size="11" class="muted">{label}</text>')
 
-x = 0.0
+parts.append(f'  <line class="rule" x1="24" y1="126" x2="{W - 24}" y2="126"/>')
+parts.append(f'  <text x="24" y="152" font-size="11" class="muted" letter-spacing="1.5">LANGUAGES</text>')
+parts.append(f'  <clipPath id="bar"><rect x="24" y="164" width="{W - 48}" height="8" rx="4"/></clipPath>')
+seg, x = [], 24.0
 for i, (name, size) in enumerate(top):
-    w = W * size / total
-    parts.append(f'<rect class="l{i}" x="{x:.1f}" y="108" width="{w:.1f}" height="10"/>')
+    w = (W - 48) * size / total
+    seg.append(f'<rect class="l{i}" x="{x:.1f}" y="164" width="{w + 0.5:.1f}" height="8"/>')
     x += w
-lx = 0
+parts.append('  <g clip-path="url(#bar)">' + "".join(seg) + "</g>")
+lx = 24
 for i, (name, size) in enumerate(top):
-    label = f"{name.lower()} {round(100 * size / total)}%"
-    parts.append(f'<rect class="l{i}" x="{lx}" y="134" width="10" height="10" rx="2"/>')
-    parts.append(f'<text x="{lx + 16}" y="143" font-size="12">{escape(label)}</text>')
-    lx += 16 + 8 * len(label) + 18
+    t = f"{name.lower()} {round(100 * size / total)}%"
+    parts.append(f'  <circle class="l{i}" cx="{lx + 4}" cy="194" r="4"/>')
+    parts.append(f'  <text x="{lx + 14}" y="198" font-size="12">{escape(t)}</text>')
+    lx += 14 + 7.3 * len(t) + 16
 
-css = "".join(f".l{i}{{fill:{c}}}" for i, c in enumerate(light))
-css_dark = "".join(f".l{i}{{fill:{c}}}" for i, c in enumerate(dark))
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="156" viewBox="0 0 {W} 156" role="img" aria-label="GitHub stats: {contribs} contributions in the past year, {repos['totalCount']} public repos, {stars} stars.">
-  <defs><clipPath id="bar"><rect x="0" y="108" width="{W}" height="10" rx="5"/></clipPath></defs>
-  <style>
-    text {{ font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #1d1d1f; }}
-    .muted {{ fill: #6e6e73; }} {css}
-    @media (prefers-color-scheme: dark) {{ text {{ fill: #f5f5f7; }} .muted {{ fill: #86868b; }} {css_dark} }}
-  </style>
-  <text x="0" y="22" font-size="17" font-weight="700">github</text>
-  {parts[0]}{parts[1]}{parts[2]}{parts[3]}{parts[4]}{parts[5]}
-  <g clip-path="url(#bar)">{"".join(p for p in parts[6:6 + len(top)])}</g>
-  {"".join(parts[6 + len(top):])}
-</svg>
-'''
-open(os.path.join(os.path.dirname(__file__), "..", "assets", "stats.svg"), "w").write(svg)
+label = f"GitHub stats: {contribs} contributions in the past year, {repos['totalCount']} public repos, {stars} stars. Top languages: " + ", ".join(n for n, _ in top)
+out = os.path.join(os.path.dirname(__file__), "..", "assets", "stats.svg")
+open(out, "w").write(card(222, "github", "\n".join(parts), label, css))
 print("wrote assets/stats.svg:", contribs, "contribs,", repos["totalCount"], "repos,", top)
