@@ -1,4 +1,4 @@
-<img alt="abinash. moves money for a living. in java. writes go for fun. apparently." src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=2997FF&vCenter=true&width=520&height=40&lines=abinash.;moves+money+for+a+living.+in+java.;writes+go+for+fun.+apparently.;rewriting+neovim+config+%235" />
+### abinash
 
 backend dev. java at [mindgate](https://www.mindgate.solutions/), so payments and banking. thrilling stuff.
 
@@ -7,6 +7,8 @@ go after hours, because rest is for people with fewer side projects.
 types on a split keyboard. has rewritten the neovim config four times. will do it again.
 
 currently: shipping. allegedly.
+
+<img src="assets/hours.svg" width="560" alt="where my hours go: configuring neovim, tweaking the sofle keymap, explaining split keyboards, and barely any actual code." />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2997ff/AbiXnash" />
