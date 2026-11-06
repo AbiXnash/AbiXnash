@@ -1,35 +1,16 @@
-# Hey, I'm Abinash.
+<img alt="abinash. moves money for a living. in java. writes go for fun. apparently." src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=2997FF&vCenter=true&width=520&height=40&lines=abinash.;moves+money+for+a+living.+in+java.;writes+go+for+fun.+apparently.;rewriting+neovim+config+%235" />
 
-**I write backend code. Riveting, I know.**
+backend dev. java at [mindgate](https://www.mindgate.solutions/), so payments and banking. thrilling stuff.
 
-Java by day, because someone has to move the money. Go after hours, because apparently I don't have hobbies.
+go after hours, because rest is for people with fewer side projects.
 
-[Portfolio](https://theabx.in) · [Email](mailto:abinash@theabx.in) · [LinkedIn](https://linkedin.com/in/abinash-selvarasu) · [Resume](https://theabx.in/abinash_selvarasu_resume.pdf)
+types on a split keyboard. has rewritten the neovim config four times. will do it again.
 
-<br>
-
-India · Open to chat · Spring Boot at work · Golang after hours
-
-<br>
-
----
-
-<sub>EXPERIENCE</sub>
-
-### The day job.
-
-Java at [Mindgate Solutions](https://www.mindgate.solutions/). Payments and banking. If it works, nobody notices. That's the job.
-
-<sub>KEYBOARD</sub>
-
-### Split keebs.
-
-I type on split keyboards. Sofle is the daily driver... because apparently a normal rectangle was too easy. Column stagger, thumb clusters, and a keymap I'll change again next week.
-
-<br>
+currently: shipping. allegedly.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2997ff/AbiXnash" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0071e3/AbiXnash" />
   <img alt="GitHub contributions" src="https://ghchart.rshah.org/0071e3/AbiXnash" />
 </picture>
+
+[theabx.in](https://theabx.in) · [email](mailto:abinash@theabx.in) · [linkedin](https://linkedin.com/in/abinash-selvarasu) · [resume](https://theabx.in/abinash_selvarasu_resume.pdf)
