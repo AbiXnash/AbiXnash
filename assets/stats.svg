@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="156" viewBox="0 0 560 156" role="img" aria-label="GitHub stats: 1048 contributions in the past year, 61 public repos, 37 stars.">
+  <defs><clipPath id="bar"><rect x="0" y="108" width="560" height="10" rx="5"/></clipPath></defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #1d1d1f; }
+    .muted { fill: #6e6e73; } .l0{fill:#0071e3}.l1{fill:#4b9bf0}.l2{fill:#86bdf6}.l3{fill:#b7d7fa}.l4{fill:#dcebfc}
+    @media (prefers-color-scheme: dark) { text { fill: #f5f5f7; } .muted { fill: #86868b; } .l0{fill:#2997ff}.l1{fill:#1a6fd1}.l2{fill:#16529a}.l3{fill:#133c6e}.l4{fill:#102a4b} }
+  </style>
+  <text x="0" y="22" font-size="17" font-weight="700">github</text>
+  <text x="0" y="62" font-size="24" font-weight="700">1,048</text><text x="0" y="82" font-size="12" class="muted">contributions, past year</text><text x="190" y="62" font-size="24" font-weight="700">61</text><text x="190" y="82" font-size="12" class="muted">public repos</text><text x="380" y="62" font-size="24" font-weight="700">37</text><text x="380" y="82" font-size="12" class="muted">stars</text>
+  <g clip-path="url(#bar)"><rect class="l0" x="0.0" y="108" width="360.6" height="10"/><rect class="l1" x="360.6" y="108" width="90.1" height="10"/><rect class="l2" x="450.7" y="108" width="39.0" height="10"/><rect class="l3" x="489.7" y="108" width="35.5" height="10"/><rect class="l4" x="525.2" y="108" width="34.8" height="10"/></g>
+  <rect class="l0" x="0" y="134" width="10" height="10" rx="2"/><text x="16" y="143" font-size="12">java 64%</text><rect class="l1" x="98" y="134" width="10" height="10" rx="2"/><text x="114" y="143" font-size="12">go 16%</text><rect class="l2" x="180" y="134" width="10" height="10" rx="2"/><text x="196" y="143" font-size="12">svelte 7%</text><rect class="l3" x="286" y="134" width="10" height="10" rx="2"/><text x="302" y="143" font-size="12">typescript 6%</text><rect class="l4" x="424" y="134" width="10" height="10" rx="2"/><text x="440" y="143" font-size="12">lua 6%</text>
+</svg>

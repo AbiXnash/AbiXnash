@@ -10,9 +10,6 @@ currently: shipping. allegedly.
 
 <img src="assets/skills.svg" width="560" alt="skills: java and spring boot, go, typescript, sql, docker." />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2997ff/AbiXnash" />
-  <img alt="GitHub contributions" src="https://ghchart.rshah.org/0071e3/AbiXnash" />
-</picture>
+<img src="assets/stats.svg" width="560" alt="github stats: contributions, public repos, stars, and top languages." />
 
 [theabx.in](https://theabx.in) · [email](mailto:abinash@theabx.in) · [linkedin](https://linkedin.com/in/abinash-selvarasu) · [resume](https://theabx.in/abinash_selvarasu_resume.pdf)
