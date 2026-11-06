@@ -1,4 +1,4 @@
-### abinash
+<img src="assets/name.svg" width="560" alt="abinash." />
 
 backend dev. java at [mindgate](https://www.mindgate.solutions/), so payments and banking. thrilling stuff.
 
@@ -8,7 +8,7 @@ types on a split keyboard. has rewritten the neovim config four times. will do i
 
 currently: shipping. allegedly.
 
-<img src="assets/hours.svg" width="560" alt="where my hours go: configuring neovim, tweaking the sofle keymap, explaining split keyboards, and barely any actual code." />
+<img src="assets/skills.svg" width="560" alt="skills: java and spring boot, go, typescript, sql, docker." />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2997ff/AbiXnash" />
